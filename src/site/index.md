@@ -13,7 +13,7 @@ layout: layouts/base.njk
 - User-Friendly Interface: Our user-friendly design ensures that both beginners and experts can navigate the app with ease.
 
 
-## Cool how do I download it?
+## Cool, how do I download it?
 - Go to the [Github Repository](https://github.com/NoodlesOfWrath/Memory-Mapper)
 - Go to releases
 - Download the most recent one
@@ -21,9 +21,8 @@ layout: layouts/base.njk
 - Enjoy!
 
 
-## How it works
+## How to add your own Images
 
-- Adding your own Images
 - This project comes with Images that have already been mapped. But I strongly recommend you try it out with your own images. Here's how you can do it.
 
 - Make sure the program is closed.

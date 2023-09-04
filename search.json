@@ -1,0 +1,19 @@
+[
+  {
+    "url": "/posts/a-post/",
+    "title": "A post page",
+    "index": "There&#39;s much here sample post page Better get work common frontmatter data files posts section are abstracted into postsjson file that don&#39;t need repeat every file Handy looks like this:{ &quot;layout&quot; : &quot;layouts/postmd&quot; &quot;tags&quot; &quot;post&quot; &quot;templateEngineOverride&quot;: &quot;njkmd&quot;}"
+  }
+  ,
+  {
+    "url": "/posts/another-post/",
+    "title": "Another post page",
+    "index": "Another simple pageSince post pages are tagged they form collection can easily inspected iterated over See that home page"
+  }
+  ,
+  {
+    "url": "/",
+    "title": "Memory Mapper",
+    "index": "Introducing our innovative desktop app that revolutionizes way explore understand emotions your image collectionsIntuitive Labeling: Define custom labels resonate with data whether &#39;s emotions sentiments any other criteriaEffortless Graphing: Our app&#39;s intelligent algorithms will transform labeled images into stunning interactive graphs X Y axes representing chosen labelsExplore Relationships: Uncover hidden connections trends within collections helping gain deeper insights dataUserFriendly Interface: userfriendly design ensures both beginners experts can navigate easeCool how download Go Github RepositoryGo releasesDownload most recent oneUnzip run exeEnjoy!How worksAdding own ImagesThis project comes Images have already been mapped strongly recommend try out images Here&#39;s Make sure program closedNavigate directory delete inside &#39;Full_Res_Memories&#39; &#39;Memory_Thumbnails&#39; foldersPaste (anything past 100 won&#39;t displayed)Launch program say responding mapping Sit tight this could take upwards 15 minutesEnjoy!SocialsGithubSend Email /* Use CSS position content topleft corner */ topleft { position: absolute; top: 0; left: padding: 10px; Add some padding spacing } "
+  }
+  ,]
